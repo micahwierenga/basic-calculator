@@ -12,4 +12,4 @@
 10. Back inside the event, create a variable that is equal to the function you just created and pass the two values to it.
 11. Take that variable you just created and put it in your htmls somewhere (your choice). (There are a couple different methods you can use to accomplish this. One appends the value to another element that is already in the html and the other just sets the html of an existing element.
 
-Bonus: This calculator only adds two values. See if you can adjust the calculator to accomplish addition, subtraction, multiplication, and division.
+**Bonus**: This calculator only adds two values. See if you can adjust the calculator to accomplish addition, subtraction, multiplication, and division.
